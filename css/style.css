@@ -1,0 +1,19 @@
+p.intro {
+  font-weight: bold;
+  font-family: cursive;
+
+}
+
+h2.intro {
+  color: red;
+  font-size: 24px;
+  text-align: center;
+
+}
+
+img.intro {
+  border-radius: 8px;
+  display: block;
+  margin: auto;
+  width: 50%:
+}
